@@ -1,0 +1,5 @@
+spring:
+  redis:
+    host: 10.26.50.104
+    port: 7490
+    password:

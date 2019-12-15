@@ -1,0 +1,7 @@
+mybatis-plus:
+  mapper-locations: /com/sep/*/repository/mapper/*Mapper.xml
+  config-location: classpath:/mybatis-config.xml
+  type-aliases-package: com.sep.*.model
+  global-config:
+    db-config:
+      id-type: auto

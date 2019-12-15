@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    druid:
+      url: jdbc:mysql://60.205.115.115:10001/springcloud_test_zk?characterEncoding=utf-8
+      username: wecoo
+      password: 2016wocoo0929
+      stat-view-servlet:
+        login-username: admin
+        login-password: admin
